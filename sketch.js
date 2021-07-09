@@ -22,7 +22,7 @@ function setup() {
 
  paper=new  Paper(200,600,20)
 ground=new Ground(400,680,800,10)
-dustbin1= new dustbin(550,625)
+dustbin1= new dustbin(550,670)
 
 	Engine.run(engine);
   
